@@ -1,0 +1,12 @@
+Deze map herbergt bestanden die gebruikt kunnen worden om Bijbelteksten uit de studie-uitgave van De Wachttoren in een apart document te laten aanmaken, volledig uitgeschreven.
+
+Wat het doet:
+* downloadt de epub- en pdf-versie van de eerstvolgende studie-uitgave van De Wachttoren die je nog niet hebt
+* zet de aangehaalde teksten (uitgezonderd de "leesteksten"), uitgeschreven, in een apart (odt)-document
+
+Wat het verwacht:
+* een bestand in deze map met de naame w_201609.epub, met 201609 aangepast naar de datum (YYYYMM) van de laatste uitgave die je al had
+* in een bovenliggende map, de map met naam 'hulpprogramma's', waarin volgende programma's zitten: DownloadFile.exe, balabolka_text.exe, filter leesteksten.exe, Akelpad.exe
+* een installatie van OpenOffice of LibreOffice
+* de nodige scripts van Akelpad in de betreffende map onder de map 'hulpprogramma's'
+* een schijf met stationsletter X
