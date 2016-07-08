@@ -1,0 +1,10 @@
+Dit hoort een ods-bestand te zijn met volgende bladen in: 'maillijst', 'namenlijst'
+Het blad 'maillijst' dient als volgt opgebouwd te zijn:
+- naam van de br/zr (zoals weergegeven in het xls-schema) in kolom A
+- het te gebruiken e-mailadres van deze br/zr in kolom B
+- het woord 'ja' in kolom C als voor deze br/zr geen toewijzingsbriefjes meer moeten gedrukt worden, anders niets
+* de eerste rij is niet van belang
+Het blad 'namelijst' dient als volgt opgebouwd te zijn:
+- de correct gespelde naam van elke br/zr (d.i. iedere entiteit (persoon of gezin) aan wie een toewijzing kan worden gegeven) in kolom A
+- fout gespelde varianten van de naam van deze br/zr in kolommen B, C en D (optioneel)
+* de eerste rij is niet van belang
