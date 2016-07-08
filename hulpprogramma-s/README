@@ -1,0 +1,18 @@
+Deze map bevat de programma's die cruciale onderdelen zijn van sommige bestanden/programma's.
+Deze map hoort "hulpprogramma's" te heten.
+
+Verwachte inhoud:
+* map 'Akelfiles', met daarin, in een gepaste map, de nodige scripts: verwerk_w_besprekingen.js, verwerk_w_teksten.js, wldv_naar_csv.js
+* AkelPad.exe
+* balabolka_text.exe
+* DownloadFile.exe
+* filter leesteksten.exe
+* Gimpose.exe
+* pdftk.exe
+* libiconv2.dll
+
+Bronnen van deze programma's/inhoud:
+* http://akelpad.sourceforge.net, de 'portable' versie
+* http://cross-plus-a.com/btext.htm
+* http://www.noliturbare.com/pdf-tools/simple-imposition
+* https://www.pdflabs.com/tools/pdftk-server
